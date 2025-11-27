@@ -2,7 +2,7 @@ import speech_recognition as sr
 import pyttsx3
 import webbrowser
 import subprocess as cmd
-from ai_api import AI_Response as AR
+from API_gemini import AI_Response as AR
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
 
