@@ -6,9 +6,9 @@ Making a chatbot using gemini ai api  and python that is doing certain task like
 3. Next make a virtual environment [In terminal:-{python3 -m venv venv}]
 4. Open that env file [In treminal:-{source venv/bin/activate}] then you will be in venv
 ## Install the required dependency from requirement.txt
-annotated-types==0.7.0 \n
-anyio==4.11.0
-beautifulsoup4==4.14.2
+- annotated-types==0.7.0 
+- anyio==4.11.0
+- beautifulsoup4==4.14.2
 cachetools==6.2.2
 certifi==2025.11.12
 charset-normalizer==3.4.4
